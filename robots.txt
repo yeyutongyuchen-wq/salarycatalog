@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salarycatalog.com/sitemap.xml
